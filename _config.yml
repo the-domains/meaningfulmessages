@@ -1,0 +1,28 @@
+name: Meaningful Messages
+favicon: null
+layout_spectrum: 0.8190400442108512
+typography_spectrum: 0.34452398982830346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5133086605928838
+  lightness: 0.7304596479516476
+  saturation: 0.7197672200854868
+  rhythmicContrast: 0.3247900593560189
+purpose: []
