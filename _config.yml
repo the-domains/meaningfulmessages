@@ -1,19 +1,4 @@
-name: Meaningful Messages
-favicon: null
-layout_spectrum: 0.89809
 typography_spectrum: 0.82028
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#67a4c1'
@@ -25,4 +10,20 @@ color:
   lightness: 0.625
   saturation: 0.7197672200854868
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.89809
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Meaningful Messages
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Acrostic Poetry Gifts
 purpose: []
